@@ -1,5 +1,5 @@
 {
-  "token": "MTAwMDI4NzIxNzAyMjk0NzMzOA.G6rsyC.g_WFE0ur6Ek46ZSIbZNU29-81i3PRniLoe1_PI",
+  "token": "MTAwMDI4NzIxNzAyMjk0NzMzOA.GFRJCj.YTE6XHCALvDGhIkcUQZdMwIlpZx3Zb9kJpDFy8",
   "prefix": "y?",
   "serverAddress": "BusterEsempeS3V2.aternos.me",
   "serverPort": "21499",
@@ -9,7 +9,7 @@
   "debugMode": true,
   "debugLvl": 1,
   "pinUpdate": true,
-  "pinId": "pin id kalen<-terserah",
+  "pinId": "",
   "pinGuildId": "1009453396610261165",
   "pinChanId": "1022724469132906536"
 }
